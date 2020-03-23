@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peemoquid.esztiesattila.hu/sitemap.xml
